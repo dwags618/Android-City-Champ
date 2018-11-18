@@ -117,7 +117,7 @@ public class MainActivity extends AppCompatActivity {
 
     setTitle("Whatsapp Login");
 
-    redirectIfLoggedIn();
+    //redirectIfLoggedIn();
 
     ParseAnalytics.trackAppOpenedInBackground(getIntent());
   }
