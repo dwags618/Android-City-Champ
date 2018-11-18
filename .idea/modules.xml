@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Parse-Server-Starter-Project.iml" filepath="$PROJECT_DIR$/Parse-Server-Starter-Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android-City-Champ.iml" filepath="$PROJECT_DIR$/Android-City-Champ.iml" />
       <module fileurl="file://$PROJECT_DIR$/ParseStarterProject/ParseStarterProject.iml" filepath="$PROJECT_DIR$/ParseStarterProject/ParseStarterProject.iml" />
     </modules>
   </component>

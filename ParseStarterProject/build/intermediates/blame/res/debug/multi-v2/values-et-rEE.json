@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Dylan\\Downloads\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-et-rEE\\values-et-rEE.xml",
+            "outputFile": "C:\\Users\\Dylan\\Android-City-Champ\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-et-rEE\\values-et-rEE.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Dylan\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-23.0.0.aar\\bf6ebbf6d569a376bbbfa5af75a188da\\res\\values-et-rEE\\values-et-rEE.xml",

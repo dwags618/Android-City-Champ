@@ -1,9 +1,10 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Dylan\Downloads\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-36:12
-INJECTED from C:\Users\Dylan\Downloads\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-36:12
-INJECTED from C:\Users\Dylan\Downloads\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-36:12
-INJECTED from C:\Users\Dylan\Downloads\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-36:12
+ADDED from C:\Users\Dylan\Android-City-Champ\ParseStarterProject\src\main\AndroidManifest.xml:9:1-40:12
+INJECTED from C:\Users\Dylan\Android-City-Champ\ParseStarterProject\src\main\AndroidManifest.xml:9:1-40:12
+INJECTED from C:\Users\Dylan\Android-City-Champ\ParseStarterProject\src\main\AndroidManifest.xml:9:1-40:12
+INJECTED from C:\Users\Dylan\Android-City-Champ\ParseStarterProject\src\main\AndroidManifest.xml:9:1-40:12
+MERGED from [com.android.support:design:23.4.0] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\ccf84dbad260a5c20eadfee81b4cfb95\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services:9.4.0] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\play-services-9.4.0.aar\f32c440f1e76c665c62e51c0f2990cd0\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.4.0.aar\3d70ca99d679d34a52294dd95258843b\AndroidManifest.xml:2:1-10:12
 MERGED from [com.google.android.gms:play-services-cast:9.4.0] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\play-services-cast-9.4.0.aar\93a21c7297855c4710e7c6e094a56b45\AndroidManifest.xml:16:1-20:12
@@ -58,27 +59,28 @@ MERGED from [com.google.firebase:firebase-common:9.4.0] C:\Users\Dylan\.gradle\c
 MERGED from [com.google.android.gms:play-services-gass:9.4.0] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\play-services-gass-9.4.0.aar\5ab3389fd3ccaec4c909f5004bc41e07\AndroidManifest.xml:16:1-20:12
 MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.4.0.aar\eb58c33aeb5a61bc230c5673d7094e1a\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\627216f79d2613a9ee738cce53714c59\AndroidManifest.xml:16:1-26:12
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.4.0.aar\0f28a221e15ba08df283b7025091da64\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\c2c176f8c4381cd421185886e8079a6c\AndroidManifest.xml:2:1-9:12
 MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\64dee08fd1b35c8e6b6915a30a9498c2\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\Dylan\Downloads\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-36:12
-INJECTED from C:\Users\Dylan\Downloads\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-36:12
-INJECTED from C:\Users\Dylan\Downloads\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-36:12
+INJECTED from C:\Users\Dylan\Android-City-Champ\ParseStarterProject\src\main\AndroidManifest.xml:9:1-40:12
+INJECTED from C:\Users\Dylan\Android-City-Champ\ParseStarterProject\src\main\AndroidManifest.xml:9:1-40:12
+INJECTED from C:\Users\Dylan\Android-City-Champ\ParseStarterProject\src\main\AndroidManifest.xml:9:1-40:12
 	package
-		ADDED from C:\Users\Dylan\Downloads\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:10:5-32
-		INJECTED from C:\Users\Dylan\Downloads\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Dylan\Downloads\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Dylan\Android-City-Champ\ParseStarterProject\src\main\AndroidManifest.xml:10:5-32
+		INJECTED from C:\Users\Dylan\Android-City-Champ\ParseStarterProject\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Dylan\Android-City-Champ\ParseStarterProject\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Dylan\Downloads\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Dylan\Downloads\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-36:12
-		INJECTED from C:\Users\Dylan\Downloads\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Dylan\Android-City-Champ\ParseStarterProject\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Dylan\Android-City-Champ\ParseStarterProject\src\main\AndroidManifest.xml:9:1-40:12
+		INJECTED from C:\Users\Dylan\Android-City-Champ\ParseStarterProject\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\Dylan\Downloads\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Dylan\Downloads\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-36:12
-		INJECTED from C:\Users\Dylan\Downloads\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Dylan\Android-City-Champ\ParseStarterProject\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Dylan\Android-City-Champ\ParseStarterProject\src\main\AndroidManifest.xml:9:1-40:12
+		INJECTED from C:\Users\Dylan\Android-City-Champ\ParseStarterProject\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Dylan\Downloads\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:11-69
+		ADDED from C:\Users\Dylan\Android-City-Champ\ParseStarterProject\src\main\AndroidManifest.xml:9:11-69
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\Dylan\Downloads\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:12:5-67
+ADDED from C:\Users\Dylan\Android-City-Champ\ParseStarterProject\src\main\AndroidManifest.xml:12:5-67
 MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.4.0.aar\bc09c2ff59be9fd0dd1c281c3153e38a\AndroidManifest.xml:20:5-66
 MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.4.0.aar\bc09c2ff59be9fd0dd1c281c3153e38a\AndroidManifest.xml:20:5-66
 MERGED from [com.google.android.gms:play-services-analytics:9.4.0] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.4.0.aar\698cfb86cfa5622a2a673527a55c7bc7\AndroidManifest.xml:21:5-67
@@ -104,9 +106,9 @@ MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\Dylan\.
 MERGED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\c1192feef0607d8e8be0e2002d71e3fb\AndroidManifest.xml:21:5-67
 MERGED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\c1192feef0607d8e8be0e2002d71e3fb\AndroidManifest.xml:21:5-67
 	android:name
-		ADDED from C:\Users\Dylan\Downloads\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:12:22-64
+		ADDED from C:\Users\Dylan\Android-City-Champ\ParseStarterProject\src\main\AndroidManifest.xml:12:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\Users\Dylan\Downloads\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:13:5-79
+ADDED from C:\Users\Dylan\Android-City-Champ\ParseStarterProject\src\main\AndroidManifest.xml:13:5-79
 MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.4.0.aar\bc09c2ff59be9fd0dd1c281c3153e38a\AndroidManifest.xml:21:5-78
 MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.4.0.aar\bc09c2ff59be9fd0dd1c281c3153e38a\AndroidManifest.xml:21:5-78
 MERGED from [com.google.android.gms:play-services-analytics:9.4.0] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.4.0.aar\698cfb86cfa5622a2a673527a55c7bc7\AndroidManifest.xml:22:5-79
@@ -126,17 +128,19 @@ MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\Dylan\.
 MERGED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\c1192feef0607d8e8be0e2002d71e3fb\AndroidManifest.xml:20:5-79
 MERGED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\c1192feef0607d8e8be0e2002d71e3fb\AndroidManifest.xml:20:5-79
 	android:name
-		ADDED from C:\Users\Dylan\Downloads\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:13:22-76
+		ADDED from C:\Users\Dylan\Android-City-Champ\ParseStarterProject\src\main\AndroidManifest.xml:13:22-76
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from C:\Users\Dylan\Downloads\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:14:5-80
+ADDED from C:\Users\Dylan\Android-City-Champ\ParseStarterProject\src\main\AndroidManifest.xml:14:5-80
 	android:name
-		ADDED from C:\Users\Dylan\Downloads\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:14:22-77
+		ADDED from C:\Users\Dylan\Android-City-Champ\ParseStarterProject\src\main\AndroidManifest.xml:14:22-77
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from C:\Users\Dylan\Downloads\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:15:5-79
+ADDED from C:\Users\Dylan\Android-City-Champ\ParseStarterProject\src\main\AndroidManifest.xml:15:5-79
 	android:name
-		ADDED from C:\Users\Dylan\Downloads\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:15:22-76
+		ADDED from C:\Users\Dylan\Android-City-Champ\ParseStarterProject\src\main\AndroidManifest.xml:15:22-76
 application
-ADDED from C:\Users\Dylan\Downloads\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:17:5-34:19
+ADDED from C:\Users\Dylan\Android-City-Champ\ParseStarterProject\src\main\AndroidManifest.xml:17:5-38:19
+MERGED from [com.android.support:design:23.4.0] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\ccf84dbad260a5c20eadfee81b4cfb95\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.4.0] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\ccf84dbad260a5c20eadfee81b4cfb95\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services:9.4.0] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\play-services-9.4.0.aar\f32c440f1e76c665c62e51c0f2990cd0\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services:9.4.0] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\play-services-9.4.0.aar\f32c440f1e76c665c62e51c0f2990cd0\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.4.0.aar\3d70ca99d679d34a52294dd95258843b\AndroidManifest.xml:5:5-9:19
@@ -230,43 +234,53 @@ MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Dylan\
 MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\64dee08fd1b35c8e6b6915a30a9498c2\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\64dee08fd1b35c8e6b6915a30a9498c2\AndroidManifest.xml:22:5-20
 	android:label
-		ADDED from C:\Users\Dylan\Downloads\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:21:9-41
+		ADDED from C:\Users\Dylan\Android-City-Champ\ParseStarterProject\src\main\AndroidManifest.xml:21:9-41
 	android:icon
-		ADDED from C:\Users\Dylan\Downloads\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:20:9-43
+		ADDED from C:\Users\Dylan\Android-City-Champ\ParseStarterProject\src\main\AndroidManifest.xml:20:9-43
 	android:allowBackup
-		ADDED from C:\Users\Dylan\Downloads\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:19:9-35
+		ADDED from C:\Users\Dylan\Android-City-Champ\ParseStarterProject\src\main\AndroidManifest.xml:19:9-35
 	android:theme
-		ADDED from C:\Users\Dylan\Downloads\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:22:9-40
+		ADDED from C:\Users\Dylan\Android-City-Champ\ParseStarterProject\src\main\AndroidManifest.xml:22:9-40
 	android:name
-		ADDED from C:\Users\Dylan\Downloads\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:18:9-43
+		ADDED from C:\Users\Dylan\Android-City-Champ\ParseStarterProject\src\main\AndroidManifest.xml:18:9-43
 activity#com.parse.starter.MainActivity
-ADDED from C:\Users\Dylan\Downloads\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:23:9-31:20
+ADDED from C:\Users\Dylan\Android-City-Champ\ParseStarterProject\src\main\AndroidManifest.xml:23:9-31:20
 	android:label
-		ADDED from C:\Users\Dylan\Downloads\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:25:13-45
+		ADDED from C:\Users\Dylan\Android-City-Champ\ParseStarterProject\src\main\AndroidManifest.xml:25:13-45
 	android:name
-		ADDED from C:\Users\Dylan\Downloads\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:24:13-41
+		ADDED from C:\Users\Dylan\Android-City-Champ\ParseStarterProject\src\main\AndroidManifest.xml:24:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Dylan\Downloads\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:26:13-30:29
+ADDED from C:\Users\Dylan\Android-City-Champ\ParseStarterProject\src\main\AndroidManifest.xml:26:13-30:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Dylan\Downloads\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:27:17-69
+ADDED from C:\Users\Dylan\Android-City-Champ\ParseStarterProject\src\main\AndroidManifest.xml:27:17-69
 	android:name
-		ADDED from C:\Users\Dylan\Downloads\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:27:25-66
+		ADDED from C:\Users\Dylan\Android-City-Champ\ParseStarterProject\src\main\AndroidManifest.xml:27:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Dylan\Downloads\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:29:17-77
+ADDED from C:\Users\Dylan\Android-City-Champ\ParseStarterProject\src\main\AndroidManifest.xml:29:17-77
 	android:name
-		ADDED from C:\Users\Dylan\Downloads\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:29:27-74
+		ADDED from C:\Users\Dylan\Android-City-Champ\ParseStarterProject\src\main\AndroidManifest.xml:29:27-74
 activity#com.parse.starter.UserListActivity
-ADDED from C:\Users\Dylan\Downloads\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:32:9-54
+ADDED from C:\Users\Dylan\Android-City-Champ\ParseStarterProject\src\main\AndroidManifest.xml:32:9-54
 	android:name
-		ADDED from C:\Users\Dylan\Downloads\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:32:19-51
+		ADDED from C:\Users\Dylan\Android-City-Champ\ParseStarterProject\src\main\AndroidManifest.xml:32:19-51
 activity#com.parse.starter.ChatActivity
-ADDED from C:\Users\Dylan\Downloads\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:33:9-59
+ADDED from C:\Users\Dylan\Android-City-Champ\ParseStarterProject\src\main\AndroidManifest.xml:33:9-50
 	android:name
-		ADDED from C:\Users\Dylan\Downloads\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:33:19-47
+		ADDED from C:\Users\Dylan\Android-City-Champ\ParseStarterProject\src\main\AndroidManifest.xml:33:19-47
+activity#com.parse.starter.NavDrawerActivity
+ADDED from C:\Users\Dylan\Android-City-Champ\ParseStarterProject\src\main\AndroidManifest.xml:34:9-37:68
+	android:label
+		ADDED from C:\Users\Dylan\Android-City-Champ\ParseStarterProject\src\main\AndroidManifest.xml:36:13-62
+	android:theme
+		ADDED from C:\Users\Dylan\Android-City-Champ\ParseStarterProject\src\main\AndroidManifest.xml:37:13-56
+	android:name
+		ADDED from C:\Users\Dylan\Android-City-Champ\ParseStarterProject\src\main\AndroidManifest.xml:35:13-46
 uses-sdk
-INJECTED from C:\Users\Dylan\Downloads\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\Dylan\Downloads\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Dylan\Downloads\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Dylan\Android-City-Champ\ParseStarterProject\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Dylan\Android-City-Champ\ParseStarterProject\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Dylan\Android-City-Champ\ParseStarterProject\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:23.4.0] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\ccf84dbad260a5c20eadfee81b4cfb95\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.4.0] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\ccf84dbad260a5c20eadfee81b4cfb95\AndroidManifest.xml:20:5-43
 MERGED from [com.google.android.gms:play-services:9.4.0] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\play-services-9.4.0.aar\f32c440f1e76c665c62e51c0f2990cd0\AndroidManifest.xml:4:5-42
 MERGED from [com.google.android.gms:play-services:9.4.0] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\play-services-9.4.0.aar\f32c440f1e76c665c62e51c0f2990cd0\AndroidManifest.xml:4:5-42
 MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.4.0.aar\3d70ca99d679d34a52294dd95258843b\AndroidManifest.xml:4:5-42
@@ -375,22 +389,24 @@ MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\Dylan\.g
 MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.4.0.aar\eb58c33aeb5a61bc230c5673d7094e1a\AndroidManifest.xml:4:5-43
 MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\627216f79d2613a9ee738cce53714c59\AndroidManifest.xml:18:5-42
 MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\627216f79d2613a9ee738cce53714c59\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.4.0.aar\0f28a221e15ba08df283b7025091da64\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.4.0.aar\0f28a221e15ba08df283b7025091da64\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\c2c176f8c4381cd421185886e8079a6c\AndroidManifest.xml:5:5-43
 MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\c2c176f8c4381cd421185886e8079a6c\AndroidManifest.xml:5:5-43
 MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\64dee08fd1b35c8e6b6915a30a9498c2\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\64dee08fd1b35c8e6b6915a30a9498c2\AndroidManifest.xml:20:5-43
-INJECTED from C:\Users\Dylan\Downloads\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Dylan\Downloads\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Dylan\Android-City-Champ\ParseStarterProject\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Dylan\Android-City-Champ\ParseStarterProject\src\main\AndroidManifest.xml
 	tools:overrideLibrary
 		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\22b66c8c280585170e4fc82befa5910e\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from C:\Users\Dylan\Downloads\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Dylan\Downloads\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Dylan\Downloads\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Dylan\Android-City-Champ\ParseStarterProject\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Dylan\Android-City-Champ\ParseStarterProject\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Dylan\Android-City-Champ\ParseStarterProject\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Dylan\Downloads\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Dylan\Downloads\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Dylan\Downloads\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Dylan\Android-City-Champ\ParseStarterProject\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Dylan\Android-City-Champ\ParseStarterProject\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Dylan\Android-City-Champ\ParseStarterProject\src\main\AndroidManifest.xml
 receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
 ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.4.0.aar\3d70ca99d679d34a52294dd95258843b\AndroidManifest.xml:6:9-100
 	android:name

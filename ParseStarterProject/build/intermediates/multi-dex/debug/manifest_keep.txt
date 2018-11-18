@@ -1,3 +1,3 @@
-# Referenced at C:\Users\Dylan\Downloads\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\manifests\full\debug\AndroidManifest.xml:38
+# Referenced at C:\Users\Dylan\Android-City-Champ\ParseStarterProject\build\intermediates\manifests\full\debug\AndroidManifest.xml:38
 -keep class com.parse.starter.StarterApplication { <init>(...); }
 

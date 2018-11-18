@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void redirectIfLoggedIn() {
         if (ParseUser.getCurrentUser() !=null) {
-            Intent intent = new Intent(getApplicationContext(), UserListActivity.class);
+            Intent intent = new Intent(getApplicationContext(), NavDrawerActivity.class);
             startActivity(intent);
         }
     }
