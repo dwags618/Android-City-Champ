@@ -4,7 +4,7 @@
             "outputFile": "C:\\Users\\Dylan\\Android-City-Champ\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sq-rAL\\values-sq-rAL.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Dylan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\22b66c8c280585170e4fc82befa5910e\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "source": "C:\\Users\\Dylan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\825396b91379767bad892959eb3d6684\\res\\values-sq-rAL\\values-sq-rAL.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Dylan\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-23.0.0.aar\\bf6ebbf6d569a376bbbfa5af75a188da\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "source": "C:\\Users\\Dylan\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-23.0.0.aar\\0eb1b8de4e25e67f383a70dc48930d39\\res\\values-sq-rAL\\values-sq-rAL.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",

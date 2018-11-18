@@ -1,7 +1,7 @@
-#Sat Nov 17 20:23:03 PST 2018
-base.0=C\:\\Users\\Dylan\\Android-City-Champ\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\11
+#Sat Nov 17 23:12:51 PST 2018
+base.0=C\:\\Users\\Dylan\\Android-City-Champ\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\10
 path.1=classes2.dex
 renamed.1=classes2.dex
 path.0=classes.dex
 renamed.0=classes.dex
-base.1=C\:\\Users\\Dylan\\Android-City-Champ\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\11
+base.1=C\:\\Users\\Dylan\\Android-City-Champ\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\10
